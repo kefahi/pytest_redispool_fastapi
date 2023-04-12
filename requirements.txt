@@ -1,0 +1,6 @@
+fastapi
+redis
+hypercorn
+pytest
+pytest-asyncio
+httpx
